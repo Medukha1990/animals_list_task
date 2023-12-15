@@ -18,7 +18,7 @@ To view the test report:
 
 **Netlify link:**
 
-https://github-repo-search-m.netlify.app
+https://animal-list-test.netlify.app
 
 **Description:**
 
